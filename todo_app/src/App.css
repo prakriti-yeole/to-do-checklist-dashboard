@@ -1,0 +1,13 @@
+.App {
+  height: 100vh;
+  display: flex;
+  background-color: #d9a373;
+}
+.left_container,
+.right_container {
+  border: 1px solid red;
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+}
